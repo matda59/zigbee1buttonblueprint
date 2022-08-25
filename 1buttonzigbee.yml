@@ -9,8 +9,8 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: _TZ3000_4upl1fcj
-          model: TS0041
+          manufacturer: _TZ3000_x7mej5oc
+          model: TS0044
     button_one_short_press:
       name: Single Press
       description: Action to run on button 1 (left) single press
